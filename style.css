@@ -64,7 +64,7 @@
     left: 20px;
     top: 50%;
     cursor: default;
-    color: #8D8D8D;
+    color: #008DDA;
     font-size: 1.4rem;
     transform: translateY(-50%);
 }
@@ -244,23 +244,23 @@ header .buttons i {
     font-size: 1.2rem;
     line-height: 40px;
     text-align: center;
-    background: #C1D8C3;
+    background: #008DDA;
     border-radius: 4px;
     transition: 0.2s ease;
 }
 
 header .buttons i:first-child:hover {
-    background: #C1D8C3;
+    background: #ACE2E1;
 }
 
 header .buttons i:last-child {
     margin-left: 10px;
     font-size: 1.25rem;
-    background: #6C757D;
+    background: #008DDA;
 }
 
 header .buttons i:last-child:hover {
-    background: #5f666d;
+    background: #ACE2E1;
 }
 
 .wrapper .preview-img {
